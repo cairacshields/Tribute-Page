@@ -1,0 +1,35 @@
+
+#mainImage{
+  margin: 0 auto;
+  border: solid gray 5px;
+  border-radius: 5px;
+}
+#mainHead{
+  font-family: 'Amatic SC', cursive;
+  font-size: 100px;
+  text-align: center;
+}
+#secondaryHead{
+  font-family: 'Amatic SC', cursive;
+  text-align:center;
+}
+#navIcon{
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+}
+.slideImage{
+  margin: 0 auto;
+}
+.myVideo{
+}
+#WA{
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    margin: 40px 0px 40px 0px;
+}
+#auditionVideo{
+  margin: 10px 0px 0px 0px;
+}
+#leftQuote{
+  float: left;
+}
